@@ -1,5 +1,4 @@
 # favorite things
+- code
 - test
-- test
-- test
-- test
+- deploy
